@@ -1,0 +1,28 @@
+{
+    "books": [
+      {
+        "id": 1,
+        "title": "یادگیری React",
+        "author": "علی محمدی",
+        "read": false,
+        "category": "programming",
+        "dateAdded": "2024-01-15T10:30:00.000Z"
+      },
+      {
+        "id": 2,
+        "title": "رمان شازده کوچولو",
+        "author": "آنتوان دو سنت اگزوپری",
+        "read": false,
+        "category": "novel",
+        "dateAdded": "2024-01-10T14:20:00.000Z"
+      },
+      {
+        "id": 3,
+        "title": "تاریخ ایران باستان",
+        "author": "رضا کریمی",
+        "read": false,
+        "category": "history",
+        "dateAdded": "2024-01-05T09:15:00.000Z"
+      }
+    ]
+  }
